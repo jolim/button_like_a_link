@@ -1,5 +1,6 @@
 require "button_like_a_link/version"
 
 module ButtonLikeALink
-  # Your code goes here...
+  class Engine < ::Rails::Engine
+  end
 end
