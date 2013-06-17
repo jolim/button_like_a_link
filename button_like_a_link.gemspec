@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ButtonLikeALink::VERSION
   spec.authors       = ["Jason Olim"]
   spec.email         = ["jolim@olim.org"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{This lets you turn a RESTful form into a text link. Like when you want a delete or submit in a menu using a proper RESTful form but you don't want a button to show up. No need to do any special styling in CSS.}
+  spec.summary       = %q{This lets you turn a RESTful form into a text link.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
