@@ -16,6 +16,10 @@ Or install it yourself as:
 
     $ gem install button_like_a_link
 
+Then add to your application.js:
+
+    //=require button_like_a_link
+
 ## Usage
 
 TODO: Write usage instructions here
