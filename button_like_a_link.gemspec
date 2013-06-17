@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "button_like_a_link"
   spec.version       = ButtonLikeALink::VERSION
   spec.authors       = ["Jason Olim"]
-  spec.email         = ["jolim@skinnio.com"]
+  spec.email         = ["jolim@olim.org"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
