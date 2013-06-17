@@ -1,6 +1,6 @@
 # ButtonLikeALink
 
-TODO: Write a gem description
+This lets you turn a RESTful form into a text link. Like when you want a delete or submit in a menu using a proper RESTful form but you don't want a button to show up. No need to do any special styling in CSS.
 
 ## Installation
 
