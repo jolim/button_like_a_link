@@ -22,7 +22,11 @@ Then add to your application.js:
 
 ## Usage
 
-		Add the class .button_like_a_link to any form. It will change the button.
+Add
+
+	 	class="button-like-a-link"
+
+to any form element. It will change the submit button.
 
 ## Contributing
 
