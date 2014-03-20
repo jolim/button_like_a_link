@@ -22,7 +22,7 @@ Then add to your application.js:
 
 ## Usage
 
-TODO: Write usage instructions here
+		Add the class .button_like_a_link to any form. It will change the button.
 
 ## Contributing
 
